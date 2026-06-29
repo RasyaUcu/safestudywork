@@ -1,0 +1,12 @@
+{
+  "name": "Safestudywork",
+  "short_name": "Safestudywork",
+  "description": "Pomodoro Timer & To-Do List untuk Pelajar Indonesia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060f",
+  "theme_color": "#7c6aff",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
